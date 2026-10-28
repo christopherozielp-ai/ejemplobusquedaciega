@@ -1,0 +1,14 @@
+/home/oziel/RiderProjects/ejemplobusquedaciega/ejemplobusquedaciega/bin/Debug/net10.0/ejemplobusquedaciega
+/home/oziel/RiderProjects/ejemplobusquedaciega/ejemplobusquedaciega/bin/Debug/net10.0/ejemplobusquedaciega.deps.json
+/home/oziel/RiderProjects/ejemplobusquedaciega/ejemplobusquedaciega/bin/Debug/net10.0/ejemplobusquedaciega.runtimeconfig.json
+/home/oziel/RiderProjects/ejemplobusquedaciega/ejemplobusquedaciega/bin/Debug/net10.0/ejemplobusquedaciega.dll
+/home/oziel/RiderProjects/ejemplobusquedaciega/ejemplobusquedaciega/bin/Debug/net10.0/ejemplobusquedaciega.pdb
+/home/oziel/RiderProjects/ejemplobusquedaciega/ejemplobusquedaciega/obj/Debug/net10.0/ejemplobusquedaciega.GeneratedMSBuildEditorConfig.editorconfig
+/home/oziel/RiderProjects/ejemplobusquedaciega/ejemplobusquedaciega/obj/Debug/net10.0/ejemplobusquedaciega.AssemblyInfoInputs.cache
+/home/oziel/RiderProjects/ejemplobusquedaciega/ejemplobusquedaciega/obj/Debug/net10.0/ejemplobusquedaciega.AssemblyInfo.cs
+/home/oziel/RiderProjects/ejemplobusquedaciega/ejemplobusquedaciega/obj/Debug/net10.0/ejemplobusquedaciega.csproj.CoreCompileInputs.cache
+/home/oziel/RiderProjects/ejemplobusquedaciega/ejemplobusquedaciega/obj/Debug/net10.0/ejemplobusquedaciega.dll
+/home/oziel/RiderProjects/ejemplobusquedaciega/ejemplobusquedaciega/obj/Debug/net10.0/refint/ejemplobusquedaciega.dll
+/home/oziel/RiderProjects/ejemplobusquedaciega/ejemplobusquedaciega/obj/Debug/net10.0/ejemplobusquedaciega.pdb
+/home/oziel/RiderProjects/ejemplobusquedaciega/ejemplobusquedaciega/obj/Debug/net10.0/ejemplobusquedaciega.genruntimeconfig.cache
+/home/oziel/RiderProjects/ejemplobusquedaciega/ejemplobusquedaciega/obj/Debug/net10.0/ref/ejemplobusquedaciega.dll
